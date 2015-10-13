@@ -1,6 +1,7 @@
 name: otherChoice
 favicon: null
 layout_spectrum: 0.8
+title: 'Find it, love it, reserve it'
 cta:
   domain: null
   bucket: null
